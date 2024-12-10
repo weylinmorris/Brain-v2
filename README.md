@@ -33,6 +33,7 @@ A self-hosted, block-based note-taking system with automated knowledge discovery
 - "On this day" memories
 - Knowledge gaps identification
 - Learning path suggestions
+- AR/VR knowledge space exploration
 
 ## Project Structure
 
